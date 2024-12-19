@@ -95,7 +95,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+_-9trQQYYFczNTJl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MovieupdatewithAK')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Ott_Sandhu')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Sandhu_7418') # Support Chat Link Without https:// or @
 
 
